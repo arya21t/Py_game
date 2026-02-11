@@ -79,5 +79,5 @@ It is ideal for beginners learning game development with Python.
 
 👤 Author
 
-Ritam (Arya)
+Ritam 
 Python Learner & Beginner Game Developer
